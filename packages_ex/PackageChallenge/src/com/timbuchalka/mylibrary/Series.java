@@ -17,7 +17,7 @@ public class Series {
         for (int i=1; i <= n; i++) {
             fact *= i;
         }
-
+        //is this working properly
         return fact;
     }
 
